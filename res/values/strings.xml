@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ToDoLists</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="delete_confirm_title">Delete this note?</string>
+    <string name="delete_yes">Yes</string>
+    <string name="delete_no">No</string>
+
+</resources>
